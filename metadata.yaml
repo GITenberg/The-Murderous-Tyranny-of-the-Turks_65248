@@ -1,0 +1,35 @@
+_repo: The-Murderous-Tyranny-of-the-Turks_65248
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Bryce, James Bryce, Viscount
+    alias: Bryce, Viscount
+    birthdate: 1838
+    deathdate: 1922
+    gutenberg_agent_id: '1191'
+    url: http://www.gutenberg.org/2009/agents/1191
+    wikipedia: https://en.wikipedia.org/wiki/James_Bryce,_1st_Viscount_Bryce
+creator:
+  author:
+    agent_name: Toynbee, Arnold
+    aliases:
+    - Toynbee, Arnold Joseph
+    - Toynbee, Arnold J.
+    birthdate: 1889
+    deathdate: 1975
+    gutenberg_agent_id: '3329'
+    url: http://www.gutenberg.org/2009/agents/3329
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_J._Toynbee
+description: ''
+gutenberg_issued: '2021-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65248'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: '"The Murderous Tyranny of the Turks"'
+url: http://www.gutenberg.org/ebooks/65248
